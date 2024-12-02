@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://uatapp.manappuram.net/Mana_services/Auction_service.asmx?wsdl" docRef="http://uatapp.manappuram.net/Mana_services/Auction_service.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://uatapp.manappuram.net/Mana_services/Auction_service.asmx" xmlns:q1="http://tempuri.org/" binding="q1:Auction_serviceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://uatapp.manappuram.net/Mana_services/Auction_service.asmx" xmlns:q2="http://tempuri.org/" binding="q2:Auction_serviceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
